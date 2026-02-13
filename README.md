@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi there, I'm Narenthiran Y
@@ -22,37 +21,9 @@
 
 I specialize in transforming complex AI concepts into **production-ready solutions** using **LangChain**, **LLMs**, and **modern cloud infrastructure**. With **4+ years** of hands-on experience, I've architected and deployed AI systems that have improved efficiency by up to **40%** and handled **high-traffic workloads** with zero downtime.
 
-```python
-class NarenthiranY:
-    def __init__(self):
-        self.name = "Narenthiran Y"
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.location = "Coimbatore, Tamil Nadu, India 🇮🇳"
-        self.experience_years = 4
-        self.current_company = "KayaTech"
-        
-    def current_focus(self):
-        return {
-            "primary": "Agentic AI & Generative AI Solutions",
-            "technologies": ["LangChain", "LangGraph", "RAG", "Multi-Modal LLMs"],
-            "mission": "Building AI systems that understand, reason, and act autonomously"
-        }
-    
-    def achievements(self):
-        return [
-            "🎯 Built AI interview platform used by multiple organizations",
-            "⚡ Reduced API latency by 40% through optimization",
-            "🏗️ Architected zero-downtime systems handling high traffic",
-            "💡 Led engineering teams through knowledge-sharing sessions",
-            "🔧 Optimized infrastructure reducing costs by 8%"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together! 🚀")
-
-me = NarenthiranY()
-me.say_hi()
-```
+**Currently:** AI/ML Engineer at **KayaTech**  
+**Location:** Coimbatore, Tamil Nadu, India 🇮🇳  
+**Focus:** Agentic AI, Generative AI, and Real-time Conversational Systems
 
 ---
 
@@ -63,27 +34,35 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 🧠 **Agentic AI & Generative AI**
-Building autonomous AI agents that can:
-- 🤖 **Understand context** using LangChain & LangGraph
-- 🔄 **Execute complex workflows** with RAG architectures
-- 🎯 **Make intelligent decisions** using multi-agent systems
-- 📊 **Process multi-modal data** (text, voice, vision)
 
-**Tech Stack:**
+Building autonomous AI agents that can understand context, execute complex workflows, and make intelligent decisions.
+
+**Specializations:**
+- 🤖 Multi-agent systems with LangChain & LangGraph
+- 🔄 RAG (Retrieval-Augmented Generation) architectures
+- 📊 Multi-modal AI (text, voice, vision)
+- 🎯 Context-aware decision making
+- 💡 Prompt engineering & optimization
+
+**Technologies:**
 - LangChain, LangGraph, OpenAI GPT, Claude
 - Vector Databases (Pinecone, Chroma, FAISS)
-- Embedding Models, Semantic Search
-- Prompt Engineering & Fine-tuning
+- Embedding Models & Semantic Search
+- Fine-tuning & Model Optimization
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗣️ **Conversational AI Systems**
-Creating real-time voice & text experiences:
-- 🎙️ **Speech-to-Text (STT)** integration
-- 🔊 **Text-to-Speech (TTS)** synthesis
-- ⚡ **WebSocket-based** real-time communication
-- 🧩 **Context-aware** dialogue management
+
+Creating real-time voice and text-based intelligent systems for seamless human-AI interaction.
+
+**Capabilities:**
+- 🎙️ Speech-to-Text (STT) integration
+- 🔊 Text-to-Speech (TTS) synthesis
+- ⚡ Real-time WebSocket communication
+- 🧩 Context-aware dialogue management
+- 🎯 Intent recognition & slot filling
 
 **Applications:**
 - AI Interview Platforms
@@ -97,58 +76,47 @@ Creating real-time voice & text experiences:
 <td width="50%" valign="top">
 
 ### ⚡ **Backend Engineering**
-Designing scalable, high-performance APIs:
-- 🚀 **FastAPI** for async, high-speed APIs
-- 🎯 **Django & DRF** for robust applications
-- 🔐 **Authentication & Authorization** (JWT, OAuth)
-- 📊 **Database optimization** (PostgreSQL, Redis)
-- 🔄 **Async programming** for concurrent operations
-- 🧪 **Test-driven development** (TDD)
+
+Designing scalable, high-performance APIs and backend systems that power intelligent applications.
 
 **Expertise:**
-- RESTful API Design
-- Microservices Architecture
-- Query Optimization (40% latency reduction)
-- Caching Strategies (Redis, in-memory)
+- 🚀 FastAPI for async, high-speed APIs
+- 🎯 Django & DRF for robust applications
+- 🔐 Authentication & Authorization (JWT, OAuth)
+- 📊 Database optimization & query tuning
+- 🔄 Async programming for concurrent operations
+- 🧪 Test-driven development (TDD)
+
+**Achievements:**
+- 40% API latency reduction
+- Zero-downtime deployments
+- Scalable microservices architecture
+- Efficient caching strategies with Redis
 
 </td>
 <td width="50%" valign="top">
 
 ### ☁️ **Cloud Architecture & DevOps**
-Building infrastructure that scales:
-- 🏗️ **AWS Services** (EC2, S3, Lambda, RDS, CloudWatch)
-- 🌐 **GCP Services** (Cloud Run, Pub/Sub, Cloud SQL)
-- 🐳 **Docker** containerization
-- ⚙️ **Kubernetes (GKE)** orchestration
-- 🔄 **CI/CD Pipelines** (GitHub Actions, Cloud Build)
-- 📈 **Monitoring** (Prometheus, Grafana)
 
-**Achievements:**
-- Zero-downtime deployments
+Building cloud-native infrastructure that scales automatically and handles millions of requests.
+
+**Cloud Services:**
+- 🏗️ AWS (EC2, S3, Lambda, RDS, CloudWatch)
+- 🌐 GCP (Cloud Run, Pub/Sub, Cloud SQL)
+- 🐳 Docker containerization
+- ⚙️ Kubernetes (GKE) orchestration
+- 🔄 CI/CD Pipelines (GitHub Actions, Cloud Build)
+- 📈 Monitoring (Prometheus, Grafana)
+
+**Results:**
+- High-availability architecture
 - Auto-scaling for traffic spikes
 - 8% cost reduction through optimization
-- High-availability architecture
+- Real-time monitoring & alerting
 
 </td>
 </tr>
 </table>
-
----
-
-## 🎯 Core Competencies
-
-<div align="center">
-
-| 🤖 **AI/ML** | 💻 **Development** | ☁️ **Infrastructure** | 🔧 **Tools & Practices** |
-|:---:|:---:|:---:|:---:|
-| LangChain & LangGraph | Python (Advanced) | AWS & GCP | Git & GitHub |
-| Large Language Models | FastAPI & Django | Docker & Kubernetes | CI/CD Pipelines |
-| RAG Architecture | ReactJS & NextJS | Serverless Computing | Agile & Scrum |
-| Vector Databases | PostgreSQL & Redis | Load Balancing | TDD & Unit Testing |
-| Prompt Engineering | WebSocket & WebRTC | Auto-scaling | Performance Profiling |
-| Multi-Modal AI | RESTful APIs | Monitoring & Logging | Code Reviews |
-
-</div>
 
 ---
 
@@ -158,123 +126,269 @@ Building infrastructure that scales:
 
 | 📊 **Metric** | 🎯 **Achievement** | 💡 **Impact** |
 |:---:|:---:|:---:|
-| ⚡ **Performance** | 40% API latency reduction | Faster user experience |
-| 🎤 **AI Innovation** | Built AI interview platform | Revolutionized recruitment |
-| 🏗️ **Architecture** | Zero-downtime systems | 100% uptime during traffic spikes |
-| 💰 **Cost Optimization** | 8% infrastructure savings | More efficient resource usage |
-| 👥 **Leadership** | Weekly knowledge sessions | Upskilled engineering teams |
-| 🔧 **Debugging** | Memory leak resolution | Stable production systems |
+| ⚡ **Performance** | 40% API latency reduction | Enhanced user experience |
+| 🎤 **AI Innovation** | Built AI interview platform | Revolutionized recruitment process |
+| 🏗️ **Architecture** | Zero-downtime systems | 100% uptime during peak traffic |
+| 💰 **Cost Optimization** | 8% infrastructure savings | Efficient resource utilization |
+| 👥 **Leadership** | Weekly knowledge-sharing sessions | Upskilled engineering teams |
+| 🔧 **Optimization** | Resolved memory leaks & bottlenecks | Stable production systems |
+
+</div>
+
+### 🎯 Key Achievements
+
+✅ **AI-Powered Interview Platform** - Built end-to-end AI interviewer with real-time voice interaction  
+✅ **40% Performance Improvement** - Optimized SQL queries and FastAPI endpoints  
+✅ **Zero Data Loss** - Architected high-availability systems for heavy traffic  
+✅ **Team Leadership** - Conducted weekly sessions to foster collaborative learning  
+✅ **Cost Reduction** - Streamlined DevOps infrastructure saving 8% on server costs  
+✅ **Production Stability** - Identified and resolved critical memory and CPU issues  
+
+---
+
+## 🛠️ Technical Stack
+
+### 🤖 **AI & Machine Learning**
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge)
+![Vector_DB](https://img.shields.io/badge/Vector_DB-6E4C9E?style=for-the-badge)
+![Hugging_Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+### 💻 **Backend Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+
+### 🎨 **Frontend Technologies**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🔧 **Tools & Monitoring**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" />
 
 </div>
 
 ---
 
-## 💡 My Development Philosophy
+## 🏆 GitHub Trophies
 
-```javascript
-const myApproach = {
-    code_quality: {
-        principles: ["Clean Code", "SOLID", "DRY", "KISS"],
-        practices: ["Code Reviews", "Unit Testing", "Documentation"],
-        focus: "Maintainable, scalable, and readable code"
-    },
-    
-    problem_solving: {
-        approach: "Understand → Design → Build → Optimize → Monitor",
-        mindset: "Always thinking about edge cases and scalability",
-        learning: "Continuous improvement through experimentation"
-    },
-    
-    collaboration: {
-        communication: "Clear, concise, and proactive",
-        knowledge_sharing: "Weekly sessions to upskill teams",
-        code_reviews: "Constructive feedback for better solutions"
-    },
-    
-    innovation: {
-        staying_current: "Following latest AI/ML research",
-        experimentation: "Building POCs with new technologies",
-        impact_focus: "Technology should solve real problems"
-    }
-};
-```
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🎯 Featured Projects
 
-### **Languages & Frameworks**
-```
-Python ████████████████████ 95%    JavaScript ██████████████░░░ 75%
-Django ██████████████████░░ 85%    React      ████████████████░ 80%
-FastAPI ███████████████████░ 90%   NextJS     ███████████████░░ 75%
-```
+### 🤖 **AI-Powered Interview Platform (Berri Mastermind)**
 
-### **AI/ML Stack**
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4285F4?style=flat-square)
-![Vector_DB](https://img.shields.io/badge/Vector_DB-6E4C9E?style=flat-square)
-![Hugging_Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
+**Real-time AI interviewer with voice capabilities**
 
-### **Backend & Databases**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+Built a comprehensive AI-driven interview automation platform that revolutionized the recruitment process.
 
-### **Frontend Technologies**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+**Tech Stack:** ReactJS • FastAPI • LangChain • LLM • TTS • STT • WebSocket • Cloud SQL • GCP
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+**Key Features:**
+- ✅ Real-time voice interaction with Text-to-Speech and Speech-to-Text
+- ✅ AI-driven candidate evaluation and scoring
+- ✅ Live coding assessment integration
+- ✅ Automated interview scheduling and management
+- ✅ Context-aware question generation
 
-### **Monitoring & Tools**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Impact:** Improved recruitment efficiency and enhanced evaluation accuracy by independently gathering requirements and rapidly implementing features.
 
 ---
 
-## 🎓 Continuous Learning
+### 💼 **Business ERP System**
 
-```yaml
-currently_exploring:
-  ai_ml:
-    - "Advanced multi-agent systems with LangGraph"
-    - "Fine-tuning LLMs for domain-specific tasks"
-    - "Vector database optimization techniques"
-    - "Multi-modal AI (text + vision + audio)"
-  
-  engineering:
-    - "Event-driven architectures with Kafka"
-    - "Advanced Kubernetes patterns"
-    - "Real-time streaming with WebRTC"
-    - "Performance profiling & optimization"
-  
-  reading:
-    - "Latest AI research papers (arXiv)"
-    - "System design case studies"
-    - "Cloud architecture patterns"
-    
-  certifications_in_progress:
-    - "AWS Solutions Architect - Professional"
-    - "Advanced LangChain Certification"
-```
+**Comprehensive SaaS solution for business management**
+
+Integrated enterprise resource planning system covering all aspects of business operations.
+
+**Tech Stack:** Django • PostgreSQL • AWS • JavaScript • Redis
+
+**Modules Implemented:**
+- 📊 Customer Relationship Management (CRM)
+- 💰 Payroll Management System
+- 👥 Human Resources Management
+- 📦 Inventory Management
+- 🛒 E-commerce (B2C & B2B)
+
+**Results:** Deployed on AWS with scalable architecture, serving 100+ businesses with high availability.
+
+---
+
+### 🚗 **Car Care ERP Application**
+
+**Cloud-based vehicle service management with AI**
+
+Designed and deployed an intelligent ERP system for automotive service centers.
+
+**Tech Stack:** Django • PostgreSQL • AWS • Computer Vision
+
+**Innovation:**
+- 📷 Automated vehicle entry using camera-based number plate recognition
+- 🏢 Centralized account management across multiple branches
+- 📊 Real-time analytics and reporting dashboard
+- 💰 Automated billing and invoice generation
+
+**Impact:** Improved operational efficiency, reduced manual errors, and enabled real-time data access across branches.
+
+---
+
+### 🎨 **EPIXY - Digital Art Marketplace**
+
+**NFT-style marketplace with community features**
+
+Built a feature-rich digital art marketplace connecting artists and collectors.
+
+**Tech Stack:** Django • PostgreSQL • JavaScript • AWS
+
+**Features:**
+- 🎭 Auction system for artworks
+- 💳 Secure buying and selling functionality
+- 👥 Community features for artists
+- 🔐 Secure payment integration
+
+---
+
+### 📈 **Trading Application**
+
+**B2C trading platform for retail investors**
+
+Developed a comprehensive trading platform enabling algorithmic trading and strategy sharing.
+
+**Tech Stack:** Django • PostgreSQL • JavaScript • Real-time Data APIs
+
+**Capabilities:**
+- 📊 Real-time market data integration
+- 🤖 Algorithmic trading support
+- 📱 Shared trading strategies
+- 📈 Portfolio management
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 **AI/ML Engineer** - KayaTech
+**November 2025 - Present**
+
+Building cutting-edge AI solutions using Generative AI and Agentic AI technologies.
+
+**Key Responsibilities:**
+- Developing AI-powered applications using LangChain, LangGraph, and LLMs
+- Implementing multi-model AI systems with RAG architecture
+- Building autonomous AI agents for complex workflows
+
+---
+
+### 💻 **Full Stack Engineer** - Berribot
+**December 2023 - September 2025**
+
+Led development of AI-powered recruitment platform with real-time capabilities.
+
+**Achievements:**
+- Built AI interview platform using LangChain, LLM, WebSocket, STT, and TTS
+- Reduced API latency by 40% through SQL optimization and FastAPI improvements
+- Designed scalable architectures ensuring zero data loss during high traffic
+- Resolved memory leaks and CPU bottlenecks for optimal performance
+- Led weekly knowledge-sharing sessions to upskill the engineering team
+
+---
+
+### 🔧 **Python Developer** - Adhoc Softwares
+**May 2022 - December 2023**
+
+Delivered full-stack solutions and innovative applications for diverse clients.
+
+**Key Projects:**
+- Developed face recognition payroll application for mobile devices
+- Streamlined DevOps infrastructure, reducing server costs by 8%
+- Enhanced application performance through code optimization
+- Delivered projects ahead of schedule with high client satisfaction
+
+---
+
+## 🎓 Education & Certifications
+
+### 📚 **Education**
+**Bachelor of Science in Computer Science**  
+KG College of Arts and Science, Coimbatore  
+2016 - 2019
+
+### 🏆 **Certifications**
+- ✅ **React JS** - Qtree Technology (March 2022)
+- ✅ **Python Full-Stack Developer** - Qtree Technology (March 2022)
+- ✅ **AWS** - KGISL IMS (December 2019)
+- ✅ **CCNA** - KGISL IMS (December 2019)
+
+---
+
+## 💡 Currently Exploring
+
+**AI & Machine Learning:**
+- Advanced multi-agent systems with LangGraph
+- Fine-tuning LLMs for domain-specific tasks
+- Vector database optimization techniques
+- Multi-modal AI applications (text + vision + audio)
+
+**Backend & Infrastructure:**
+- Event-driven architectures
+- Advanced Kubernetes patterns
+- Real-time streaming with WebRTC
+- Performance profiling & optimization
+
+**Learning Resources:**
+- Latest AI research papers (arXiv)
+- System design case studies
+- Cloud architecture best practices
+
+---
+
+## 📈 Development Philosophy
+
+**Code Quality:** Clean, maintainable, and scalable code following SOLID principles  
+**Problem Solving:** Understand → Design → Build → Optimize → Monitor  
+**Collaboration:** Clear communication and proactive knowledge sharing  
+**Innovation:** Always experimenting with new technologies to solve real problems  
+**Impact Focus:** Technology should create measurable value  
 
 ---
 
@@ -295,7 +409,17 @@ currently_exploring:
 
 ### 🌟 Open To:
 
-✅ Freelance Projects | ✅ Consulting | ✅ Collaborations | ✅ Speaking Opportunities | ✅ Open Source Contributions
+✅ Freelance Projects | ✅ Consulting Opportunities | ✅ Collaborations | ✅ Speaking Engagements | ✅ Open Source Contributions
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+[![Narenthiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -305,12 +429,18 @@ currently_exploring:
 
 ### 💭 Quote I Live By
 
-*"The best AI systems are not the most complex ones, but the ones that solve real problems elegantly."* 
+*"The best AI systems are not the most complex ones, but the ones that solve real problems elegantly."*
 
 ---
 
-**⭐️ Thanks for visiting! Let's build the future with AI together! 🚀**
+### ⭐️ Thanks for visiting!
 
-*Last Updated: December 2026*
+**Let's build the future with AI together! 🚀**
+
+---
+
+**⭐️ From [Narenthiran Y](https://github.com/YOUR_GITHUB_USERNAME) with 💙**
+
+*Last Updated: December 2024*
 
 </div>
