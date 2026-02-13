@@ -117,13 +117,11 @@ Building cloud-native infrastructure that scales automatically and handles milli
 ---
 
 ## 🎯 Featured Projects
-    - 🤖 AI-Powered Interview Platform
-    - 📁 Business ERP System
-    - 🚗 Car Care ERP Application
-    - 🎨 Digital Art Marketplace
-    - 📈 Trading Application
-
----
+- 🤖 **AI-Powered Interview Platform**
+- 📁 **Business ERP System**
+- 🚗 **Car Care ERP Application**
+- 🎨 **Digital Art Marketplace**
+- 📈 **Trading Application**
 
 ## 🏆 **Certifications**
 - ✅ **React JS** - Qtree Technology (March 2022)
@@ -187,16 +185,6 @@ Building cloud-native infrastructure that scales automatically and handles milli
 
 ---
 
-## 📊 Contribution Activity
-
-<div align="center">
-
-[![Narenthiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💭 Quote I Live By
@@ -211,8 +199,8 @@ Building cloud-native infrastructure that scales automatically and handles milli
 
 ---
 
-**⭐️ From [Narenthiran Y](https://github.com/YOUR_GITHUB_USERNAME) with 💙**
+**⭐️ From [Narenthiran Y](https://github.com/naren-906) with 💙**
 
-*Last Updated: December 2024*
+*Last Updated: December 2026*
 
 </div>
