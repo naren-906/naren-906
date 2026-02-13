@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Narenthiran 👋
 
-<!--
-**naren-906/naren-906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I build intelligent AI systems that solve real-world problems using **LangChain**, **LLMs**, and **modern cloud infrastructure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- 🧠 **Agentic AI & Gen AI** - Building autonomous AI agents with LangChain & LangGraph
+- 🗣️ **Conversational AI** - Real-time voice & text systems (STT, TTS, WebSockets)
+- ⚡ **Backend Engineering** - Scalable APIs with Python (FastAPI, Django)
+- ☁️ **Cloud Architecture** - AWS, GCP, Kubernetes deployments
+
+### 💼 Experience Highlights
+- Built AI-powered interview platform improving recruitment efficiency by 40%
+- Reduced API latency by 40% through optimization
+- Architected zero-downtime systems handling high traffic
+
+### 🛠️ Tech Stack
+```python
+skills = {
+    "AI/ML": ["LangChain", "LangGraph", "RAG", "LLMs", "TTS", "STT"],
+    "Backend": ["Python", "FastAPI", "Django", "PostgreSQL", "Redis"],
+    "Frontend": ["ReactJS", "NextJS", "JavaScript", "Tailwind"],
+    "Cloud": ["AWS", "GCP", "Docker", "Kubernetes"],
+    "Tools": ["Git", "CI/CD", "WebSockets", "Vector DBs"]
+} 
